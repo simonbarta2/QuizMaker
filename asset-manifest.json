@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simonbarta2/QuizMaker.git/static/css/main.34aa314c.css",
+    "main.js": "/simonbarta2/QuizMaker.git/static/js/main.6f29e7e2.js",
+    "static/js/488.e565ba32.chunk.js": "/simonbarta2/QuizMaker.git/static/js/488.e565ba32.chunk.js",
+    "index.html": "/simonbarta2/QuizMaker.git/index.html",
+    "main.34aa314c.css.map": "/simonbarta2/QuizMaker.git/static/css/main.34aa314c.css.map",
+    "main.6f29e7e2.js.map": "/simonbarta2/QuizMaker.git/static/js/main.6f29e7e2.js.map",
+    "488.e565ba32.chunk.js.map": "/simonbarta2/QuizMaker.git/static/js/488.e565ba32.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34aa314c.css",
+    "static/js/main.6f29e7e2.js"
+  ]
+}
