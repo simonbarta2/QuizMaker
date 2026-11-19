@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/simonbarta2/QuizMaker/static/css/main.34aa314c.css",
-    "main.js": "/simonbarta2/QuizMaker/static/js/main.2fe37e62.js",
-    "static/js/488.e565ba32.chunk.js": "/simonbarta2/QuizMaker/static/js/488.e565ba32.chunk.js",
-    "index.html": "/simonbarta2/QuizMaker/index.html",
-    "main.34aa314c.css.map": "/simonbarta2/QuizMaker/static/css/main.34aa314c.css.map",
-    "main.2fe37e62.js.map": "/simonbarta2/QuizMaker/static/js/main.2fe37e62.js.map",
-    "488.e565ba32.chunk.js.map": "/simonbarta2/QuizMaker/static/js/488.e565ba32.chunk.js.map"
+    "main.css": "/QuizMaker/static/css/main.34aa314c.css",
+    "main.js": "/QuizMaker/static/js/main.437bb802.js",
+    "static/js/488.e565ba32.chunk.js": "/QuizMaker/static/js/488.e565ba32.chunk.js",
+    "index.html": "/QuizMaker/index.html",
+    "main.34aa314c.css.map": "/QuizMaker/static/css/main.34aa314c.css.map",
+    "main.437bb802.js.map": "/QuizMaker/static/js/main.437bb802.js.map",
+    "488.e565ba32.chunk.js.map": "/QuizMaker/static/js/488.e565ba32.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.34aa314c.css",
-    "static/js/main.2fe37e62.js"
+    "static/js/main.437bb802.js"
   ]
 }
